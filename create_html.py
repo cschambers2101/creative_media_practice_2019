@@ -13,10 +13,12 @@ for r, d, f in os.walk(path):
             files.append(os.path.join(r, file))
 
 for f in files:
-    sep = '.'
-    c = f.split(sep, 1)[0]
-    sep = '/'
-    d = c.split(sep, 1)[1]
+    sep1 = '.'
+    c = f.split(sep1, 1)[0]
+    print('path', c)
+    sep2 = '/'
+    d = c.split(sep2, 1)[1]
+    print('output', d)
     os.system(f'pandoc --pdf-engine=wkhtmltopdf {c}.md -o documents/html/{d}.html')
     
 
