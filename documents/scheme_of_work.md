@@ -10,9 +10,9 @@
 - Install Linux
 - [Introduction to the terminal](terminal.html)
 - [Vim](vim.html)
-- Using [Spell Check](https://www.linux.com/training-tutorials/using-spell-checking-vim/) in VIM
 - [Markdown](markdown.html)
 - Taking notes with Vim
+- Using [Spell Check](https://www.linux.com/training-tutorials/using-spell-checking-vim/) in VIM
 - Installing software with [apt](lesson_plan_2.html)
 - Converting markdown to HTML, Word and PDF using [Pandoc](lesson_plan_2.html)
 - [Dotfiles](dotfiles.html) - bashrc, vimrc
