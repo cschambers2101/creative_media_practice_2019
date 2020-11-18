@@ -88,8 +88,6 @@ source ~/.iterm2_shell_integration.zsh.
 ### Profiles
 There are many settings for the profiles in iTerm and these are personal preference, choose what you like!
 
-![Profiles](images/iterm_preferences)
-
 ## Install git
 Next we need to install Git using Homebrew:
 
